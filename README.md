@@ -55,10 +55,13 @@
 
 ## Contact
 
-
- [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shjeong3332@gmail.com)](mailto:shejong3332@gmail.com)
-	
-
+ <a href="mailto:shjeong3332@gmail.com">
+<div align="center"> 
+<img
+src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shjeong3332@gmail.com"
+style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+</a>
+</div>
 
 <br/>  
 
