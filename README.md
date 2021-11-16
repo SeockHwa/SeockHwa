@@ -1,6 +1,6 @@
 ### Hi there 👋
-🔭 I'm undergraduate studen in Ajou University.  
-🔭 I’m currently working on CVPR LAB of Ajou University.  
+🔭 I'm undergraduate student in Ajou University.  
+🔭 I’m currently studying in CVPR LAB of Ajou University.  
 🌱 I’m currently learning about ML and CV  
 📫 How to reach me : shjeong3332@gmail.com
 
