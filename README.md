@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+🔭 I'm undergraduate studen in Ajou University.
+🔭 I’m currently working on CVPR LAB of Ajou University.
+🌱 I’m currently learning about ML and CV
+📫 How to reach me : shjeong3332@gmail.com
 <!--
 **SeockHwa/SeockHwa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
