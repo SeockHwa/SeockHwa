@@ -5,7 +5,7 @@
   
 
 
-- 🔭 I’m currently undergraduate student in Ajou university.
+- 🔭 I’m currently the master's course student in Ajou university.
 
 
 - 🔭 I’m currently studying in CVPR LAB of Ajou university.
@@ -14,7 +14,7 @@
 - 🌱 I’m currently learning Computer Vision and Machine Learning.  
 
 
-- 🌱 I’m currently learning Express.js and Node.js.  
+- 🌱 I’m currently learning Knowledge Distillation for vision task and Semantic Segmentation.  
   
   
 
