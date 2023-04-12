@@ -1,7 +1,7 @@
 
   
 
-### <div align="center">I'm Seockhwa, a growing developer 👨‍💻 Studying CS since 2020 🚀</div>  
+### <div align="center">I'm Seokhwa, a growing developer 👨‍💻 Studying CS since 2020 🚀</div>  
   
 
 
